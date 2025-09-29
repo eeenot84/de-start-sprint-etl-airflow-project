@@ -1,1 +1,3 @@
-# de-start-sprint-etl-airflow-project
+# ETL Airflow Project - Sprint3
+
+ETL пайплайн для обработки данных о продажах с поддержкой возвратов и расчетом метрик customer retention. Проект включает загрузку данных из API, обработку в staging слое, построение dimension и fact таблиц, а также расчет недельных метрик по категориям клиентов.
